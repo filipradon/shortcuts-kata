@@ -1,11 +1,12 @@
 fun main(args: Array<String>) {
-    /*
-    Hiya!👋 Start here!
-     */
+    // Hiya!👋 Start here!
 
-
-    /*
-    First shortcut! - ⌘ D - Duplicate line
-     */
+    // ⌘ + D - Duplicate line
     println("Duplicate me using ⌘ + D shortcut")
+
+
+    // ⌘ + / - Comment/Uncomment line
+    println("Comment me using ⌘ + / short")
+//    println("Uncomment me using ⌘ + / short")
+
 }
